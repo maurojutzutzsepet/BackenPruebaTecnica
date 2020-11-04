@@ -1,0 +1,18 @@
+{
+  "name": "mauro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "maurojutzutz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request-ip": "^2.1.3",
+    "sequelize": "^6.3.5",
+    "tedious": "^9.2.1",
+    "uuidv4": "^6.2.5"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
